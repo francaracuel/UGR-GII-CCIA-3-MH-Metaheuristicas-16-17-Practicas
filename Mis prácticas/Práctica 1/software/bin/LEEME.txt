@@ -1,0 +1,38 @@
+////////////////////////////////////////////////////////////////////////////////
+
+//
+
+// Francisco Javier Caracuel Beltrán
+
+//
+
+// Curso 2016/2017 - Metaheurísticas - GII - CCIA
+
+//
+
+// Práctica 1. APC.
+
+//
+//
+////////////////////////////////////////////////////////////////////////////////
+
+- "p1" es el fichero ejecutable de la aplicación. Para lanzarla se debe escribir
+en el terminal (si se está situado sobre la raíz de la aplicación):
+	./bin/p1 sonar.arff 1824
+	./bin/p1 wdbc.arff 1824
+	./bin/p1 spambase-460.arff 1824
+
+Es posible que pueda devolver algún tipo de error. Se recomienda en ese caso
+ejecutar en el terminal (si se está situado sobre la raíz de la aplicación):
+	make
+
+- sonar.arff, wdbc.arff y spambase-460.arff:
+Son los ficheros de datos que necesita la aplicación. Solo son una copia y se 
+encuentran aquí por requerimiento del guion.
+La ubicación real de los ficheros de datos para mantener un mayor orden es "/data".
+
+
+
+
+
+

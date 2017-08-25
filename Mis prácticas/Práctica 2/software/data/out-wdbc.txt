@@ -1,0 +1,452 @@
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 1 -> Agr: 47.44%, _class: 94.87%, _red: 0%, T: 0.014629 segundos
+
+/////////////////////////////
+// BL
+
+Partición 1 -> Agr: 47.44%, _class: 94.87%, _red: 0%, T: 1.09049 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 1 -> Agr: 51.2%, _class: 95.73%, _red: 6.67%, T: 0.001993 segundos
+
+/////////////////////////////
+// Simulated Annealing
+
+Partición 1 -> Agr: 82.86%, _class: 95.73%, _red: 70%, T: 24.968 segundos
+
+/////////////////////////////
+// Simulated Annealing - EXPERIMENTO
+
+Partición 1 -> Agr: 91.54%, _class: 89.74%, _red: 93.33%, T: 24.3232 segundos
+
+/////////////////////////////
+// Iterative Local Search
+
+Partición 1 -> Agr: 62.44%, _class: 94.87%, _red: 30%, T: 15.7941 segundos
+
+/////////////////////////////
+// Iterative Local Search - EXPERIMENTO
+
+Partición 1 -> Agr: 84.53%, _class: 95.73%, _red: 73.33%, T: 15.2465 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1
+
+Partición 1 -> Agr: 94.57%, _class: 99.15%, _red: 90%, T: 23.0358 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1 - EXPERIMENTO
+
+Partición 1 -> Agr: 94.15%, _class: 98.29%, _red: 90%, T: 23.1667 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1
+
+Partición 1 -> Agr: 87.44%, _class: 94.87%, _red: 80%, T: 22.8237 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1 - EXPERIMENTO
+
+Partición 1 -> Agr: 93.63%, _class: 90.6%, _red: 96.67%, T: 22.3908 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 1 -> Agr: 84.1%, _class: 94.87%, _red: 73.33%, T: 19.8441 segundos
+
+/////////////////////////////
+// GG-BLX - EXPERIMENTO
+
+Partición 1 -> Agr: 90.3%, _class: 90.6%, _red: 90%, T: 19.7686 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 1 -> Agr: 57.44%, _class: 94.87%, _red: 20%, T: 12.5225 segundos
+TERMINA
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 2 -> Agr: 47.35%, _class: 94.69%, _red: 0%, T: 0.001695 segundos
+
+/////////////////////////////
+// BL
+
+Partición 2 -> Agr: 47.35%, _class: 94.69%, _red: 0%, T: 1.12452 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 2 -> Agr: 53.57%, _class: 93.81%, _red: 13.33%, T: 0.001934 segundos
+
+/////////////////////////////
+// Simulated Annealing
+
+Partición 2 -> Agr: 83.57%, _class: 93.81%, _red: 73.33%, T: 24.8942 segundos
+
+/////////////////////////////
+// Simulated Annealing - EXPERIMENTO
+
+Partición 2 -> Agr: 92.35%, _class: 94.69%, _red: 90%, T: 24.2494 segundos
+
+/////////////////////////////
+// Iterative Local Search
+
+Partición 2 -> Agr: 73.13%, _class: 92.92%, _red: 53.33%, T: 17.1323 segundos
+
+/////////////////////////////
+// Iterative Local Search - EXPERIMENTO
+
+Partición 2 -> Agr: 89.25%, _class: 88.5%, _red: 90%, T: 17.6759 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1
+
+Partición 2 -> Agr: 93.67%, _class: 97.35%, _red: 90%, T: 23.4103 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1 - EXPERIMENTO
+
+Partición 2 -> Agr: 94.12%, _class: 98.23%, _red: 90%, T: 23.0807 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1
+
+Partición 2 -> Agr: 89.35%, _class: 92.04%, _red: 86.67%, T: 22.8886 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1 - EXPERIMENTO
+
+Partición 2 -> Agr: 92.24%, _class: 91.15%, _red: 93.33%, T: 22.9206 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 2 -> Agr: 80.68%, _class: 94.69%, _red: 66.67%, T: 19.7375 segundos
+
+/////////////////////////////
+// GG-BLX - EXPERIMENTO
+
+Partición 2 -> Agr: 88.67%, _class: 97.35%, _red: 80%, T: 19.8772 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 2 -> Agr: 56.12%, _class: 95.58%, _red: 16.67%, T: 14.1247 segundos
+TERMINA
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 3 -> Agr: 46.02%, _class: 92.04%, _red: 0%, T: 0.00172 segundos
+
+/////////////////////////////
+// BL
+
+Partición 3 -> Agr: 46.02%, _class: 92.04%, _red: 0%, T: 1.14167 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 3 -> Agr: 55.68%, _class: 94.69%, _red: 16.67%, T: 0.001937 segundos
+
+/////////////////////////////
+// Simulated Annealing
+
+Partición 3 -> Agr: 86.12%, _class: 95.58%, _red: 76.67%, T: 24.7883 segundos
+
+/////////////////////////////
+// Simulated Annealing - EXPERIMENTO
+
+Partición 3 -> Agr: 92.68%, _class: 92.04%, _red: 93.33%, T: 24.4429 segundos
+
+/////////////////////////////
+// Iterative Local Search
+
+Partición 3 -> Agr: 67.35%, _class: 94.69%, _red: 40%, T: 18.1819 segundos
+
+/////////////////////////////
+// Iterative Local Search - EXPERIMENTO
+
+Partición 3 -> Agr: 94.01%, _class: 94.69%, _red: 93.33%, T: 16.8632 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1
+
+Partición 3 -> Agr: 94.9%, _class: 96.46%, _red: 93.33%, T: 23.4245 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1 - EXPERIMENTO
+
+Partición 3 -> Agr: 94.9%, _class: 96.46%, _red: 93.33%, T: 22.9524 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1
+
+Partición 3 -> Agr: 93.57%, _class: 93.81%, _red: 93.33%, T: 22.6855 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1 - EXPERIMENTO
+
+Partición 3 -> Agr: 94.45%, _class: 95.58%, _red: 93.33%, T: 23.1127 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 3 -> Agr: 83.67%, _class: 97.35%, _red: 70%, T: 20.0095 segundos
+
+/////////////////////////////
+// GG-BLX - EXPERIMENTO
+
+Partición 3 -> Agr: 91.9%, _class: 93.81%, _red: 90%, T: 19.6315 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 3 -> Agr: 56.46%, _class: 92.92%, _red: 20%, T: 14.2467 segundos
+TERMINA
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 4 -> Agr: 46.9%, _class: 93.81%, _red: 0%, T: 0.001719 segundos
+
+/////////////////////////////
+// BL
+
+Partición 4 -> Agr: 46.9%, _class: 93.81%, _red: 0%, T: 1.24918 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 4 -> Agr: 54.9%, _class: 96.46%, _red: 13.33%, T: 0.001814 segundos
+
+/////////////////////////////
+// Simulated Annealing
+
+Partición 4 -> Agr: 87.79%, _class: 95.58%, _red: 80%, T: 24.4835 segundos
+
+/////////////////////////////
+// Simulated Annealing - EXPERIMENTO
+
+Partición 4 -> Agr: 91.9%, _class: 93.81%, _red: 90%, T: 24.4289 segundos
+
+/////////////////////////////
+// Iterative Local Search
+
+Partición 4 -> Agr: 59.01%, _class: 94.69%, _red: 23.33%, T: 18.6096 segundos
+
+/////////////////////////////
+// Iterative Local Search - EXPERIMENTO
+
+Partición 4 -> Agr: 92.35%, _class: 94.69%, _red: 90%, T: 19.4586 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1
+
+Partición 4 -> Agr: 94.9%, _class: 96.46%, _red: 93.33%, T: 22.9527 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1 - EXPERIMENTO
+
+Partición 4 -> Agr: 94.9%, _class: 96.46%, _red: 93.33%, T: 22.9665 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1
+
+Partición 4 -> Agr: 86.22%, _class: 99.12%, _red: 73.33%, T: 23.2732 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1 - EXPERIMENTO
+
+Partición 4 -> Agr: 91.46%, _class: 92.92%, _red: 90%, T: 23.0531 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 4 -> Agr: 87.79%, _class: 95.58%, _red: 80%, T: 19.7122 segundos
+
+/////////////////////////////
+// GG-BLX - EXPERIMENTO
+
+Partición 4 -> Agr: 90.24%, _class: 93.81%, _red: 86.67%, T: 19.4728 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 4 -> Agr: 61.56%, _class: 96.46%, _red: 26.67%, T: 13.9554 segundos
+TERMINA
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 5 -> Agr: 49.12%, _class: 98.23%, _red: 0%, T: 0.001702 segundos
+
+/////////////////////////////
+// BL
+
+Partición 5 -> Agr: 49.12%, _class: 98.23%, _red: 0%, T: 1.12478 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 5 -> Agr: 55.34%, _class: 97.35%, _red: 13.33%, T: 0.001814 segundos
+
+/////////////////////////////
+// Simulated Annealing
+
+Partición 5 -> Agr: 86.12%, _class: 95.58%, _red: 76.67%, T: 24.5853 segundos
+
+/////////////////////////////
+// Simulated Annealing - EXPERIMENTO
+
+Partición 5 -> Agr: 93.57%, _class: 93.81%, _red: 93.33%, T: 24.3277 segundos
+
+/////////////////////////////
+// Iterative Local Search
+
+Partición 5 -> Agr: 65.34%, _class: 97.35%, _red: 33.33%, T: 16.0005 segundos
+
+/////////////////////////////
+// Iterative Local Search - EXPERIMENTO
+
+Partición 5 -> Agr: 84.9%, _class: 96.46%, _red: 73.33%, T: 17.5375 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1
+
+Partición 5 -> Agr: 94.9%, _class: 96.46%, _red: 93.33%, T: 23.3782 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/rand/1 - EXPERIMENTO
+
+Partición 5 -> Agr: 94.79%, _class: 92.92%, _red: 96.67%, T: 22.6186 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1
+
+Partición 5 -> Agr: 92.01%, _class: 97.35%, _red: 86.67%, T: 22.7071 segundos
+
+/////////////////////////////
+// Differential Evolution, DE/current-to-best/1 - EXPERIMENTO
+
+Partición 5 -> Agr: 91.02%, _class: 92.04%, _red: 90%, T: 22.9739 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 5 -> Agr: 84.01%, _class: 94.69%, _red: 73.33%, T: 19.5312 segundos
+
+/////////////////////////////
+// GG-BLX - EXPERIMENTO
+
+Partición 5 -> Agr: 93.23%, _class: 96.46%, _red: 90%, T: 19.6521 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 5 -> Agr: 62.79%, _class: 95.58%, _red: 30%, T: 15.2063 segundos
+TERMINA
+
+//////////////////////////////////////////////////////////
+////////// Tiempos totales finales
+
+// 1-NN:
+Media del % del Agr: 47.36%
+Media del % de _clas: 94.73%
+Media del % de _red: 0%
+Media del tiempo: 0.004293 segundos
+
+// Relief:
+Media del % del Agr: 54.14%
+Media del % de _clas: 95.61%
+Media del % de _red: 12.67%
+Media del tiempo: 0.0018984 segundos
+
+// ES:
+Media del % del Agr: 85.29%
+Media del % de _clas: 95.25%
+Media del % de _red: 75.33%
+Media del tiempo: 24.7439 segundos
+
+// ILS:
+Media del % del Agr: 65.45%
+Media del % de _clas: 94.9%
+Media del % de _red: 36%
+Media del tiempo: 17.1437 segundos
+
+// DE/rand/1:
+Media del % del Agr: 94.59%
+Media del % de _clas: 97.17%
+Media del % de _red: 92%
+Media del tiempo: 23.2403 segundos
+
+// DE/current-to-best/1:
+Media del % del Agr: 89.72%
+Media del % de _clas: 95.43%
+Media del % de _red: 84%
+Media del tiempo: 22.8756 segundos
+
+// BL:
+Media del % del Agr: 47.36%
+Media del % de _clas: 94.73%
+Media del % de _red: 0%
+Media del tiempo: 1.14613 segundos
+
+// GG-BLX:
+Media del % del Agr: 84.05%
+Media del % de _clas: 95.43%
+Media del % de _red: 72.67%
+Media del tiempo: 19.7669 segundos
+
+// AM-(10,0.1mej):
+Media del % del Agr: 58.87%
+Media del % de _clas: 95.08%
+Media del % de _red: 22.67%
+Media del tiempo: 14.0111 segundos
+
+// ES - EXPERIMENTO:
+Media del % del Agr: 92.41%
+Media del % de _clas: 92.82%
+Media del % de _red: 92%
+Media del tiempo: 24.3544 segundos
+
+// ILS - EXPERIMENTO:
+Media del % del Agr: 89.01%
+Media del % de _clas: 94.01%
+Media del % de _red: 84%
+Media del tiempo: 17.3563 segundos
+
+// DE/rand/1 - EXPERIMENTO:
+Media del % del Agr: 94.57%
+Media del % de _clas: 96.47%
+Media del % de _red: 92.67%
+Media del tiempo: 22.957 segundos
+
+// DE/current-to-best/1 - EXPERIMENTO:
+Media del % del Agr: 92.56%
+Media del % de _clas: 92.46%
+Media del % de _red: 92.67%
+Media del tiempo: 22.8902 segundos
+
+// GG-BLX - EXPERIMENTO:
+Media del % del Agr: 90.87%
+Media del % de _clas: 94.4%
+Media del % de _red: 87.33%
+Media del tiempo: 19.6804 segundos
+
+
+//////////////////////////////////////////////
+
+
+//////////////////////////////////////////////////////////
+// El tiempo que ha tardado en total es: 1151.88 segundos
+// El tiempo que ha tardado en total es: 19.1979 minutos
+//////////////////////////////////////////////////////////
+

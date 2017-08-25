@@ -1,0 +1,34 @@
+COMO USAR LA LIBRERIA PARADISEO 1.1 CON UNIX Y GCC
+----------------------------------
+
+1) Descomprimir el archivo tar.gz e instalar mediante el instalador ./installParadiseo.sh.
+Podemos instalarlo en nuestro directorio local o bien en /opt/paradiseo-1.1 o cualquier directorio tipico de instalación
+de paquetes no pertenecientes a la distribución Linux
+
+2) Si no hemos recibido error alguno en la instalación ya podemos usar las librerías de Paradiseo
+
+
+...
+
+) En el directorio donde tengamos el proyecto creamos un subdirectorio en donde irán los archivos binarios
+y de configuración necesarios para CMAKE, por ejemplo build: 
+
+	mkdir build
+
+) Entramos en el directorio build y creamos los archivos de configuración necesarios para poder construir el proyecto
+y generar posteriormente el ejecutable. Necesitamos haber definido correctamente los archivos de texto de configuración
+del CMAKE, esto es, CMakeLists.txt y install.cmake:
+
+	cd build
+	cmake -G "Unix Makefiles" ../
+
+) Una vez hecho esto ya podemos compilar nuestro proyecto siempre desde el directorio build con un simple "make". Si cambiamos
+el codigo fuente de nuestro archivos no necesitamos hacer nada más. Sin embargo, si incluimos nuevos ficheros fuente o modificamos
+el nombre a alguno de ellos necesitamos modificar el fichero CMakeLists.txt y volver al paso anterior para generar el linkado.
+
+	../build$ make
+
+) Ejecutamos el fichero ejecutable con el nombre del proyecto que se ha creado en el directorio build:
+
+	../build$ ./proyecto 
+ 

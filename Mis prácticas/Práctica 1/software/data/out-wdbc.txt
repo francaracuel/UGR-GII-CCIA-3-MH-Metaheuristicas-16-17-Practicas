@@ -1,0 +1,560 @@
+
+//////////////////////////////////////////////
+// wdbc.arff //
+
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 1-1: %_clas: 93.66%, T: 0.015486 segundos
+
+/////////////////////////////
+// BL
+
+Partición 1-1: %_clas: 93.66%, T: 1.4891 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 1-1: %_clas: 92.96%, T: 0.002468 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 1-1: %_clas: 97.18%, T: 29.9955 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 1-1: %_clas: 95.42%, T: 67.1285 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 1-1: %_clas: 97.54%, T: 52.5245 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 1-1: %_clas: 95.77%, T: 62.2181 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 1-1: %_clas: 94.37%, T: 33.518 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 1-1: %_clas: 94.72%, T: 18.4759 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 1-1: %_clas: 94.72%, T: 17.2831 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 1-2: %_clas: 91.93%, T: 0.002396 segundos
+
+/////////////////////////////
+// BL
+
+Partición 1-2: %_clas: 91.93%, T: 1.46936 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 1-2: %_clas: 93.33%, T: 0.002448 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 1-2: %_clas: 96.84%, T: 28.399 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 1-2: %_clas: 96.49%, T: 74.8365 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 1-2: %_clas: 97.19%, T: 51.953 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 1-2: %_clas: 96.84%, T: 59.3783 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 1-2: %_clas: 95.79%, T: 35.5728 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 1-2: %_clas: 95.77%, T: 21.0617 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 1-2: %_clas: 94.01%, T: 18.1473 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 2-1: %_clas: 92.63%, T: 0.002536 segundos
+
+/////////////////////////////
+// BL
+
+Partición 2-1: %_clas: 92.63%, T: 1.383 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 2-1: %_clas: 92.98%, T: 0.002396 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 2-1: %_clas: 96.49%, T: 27.2519 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 2-1: %_clas: 96.49%, T: 31.7306 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 2-1: %_clas: 95.79%, T: 46.4942 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 2-1: %_clas: 95.44%, T: 60.6042 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 2-1: %_clas: 95.09%, T: 34.6547 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 2-1: %_clas: 95.09%, T: 19.6121 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 2-1: %_clas: 94.39%, T: 18.2267 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 2-2: %_clas: 95.42%, T: 0.002184 segundos
+
+/////////////////////////////
+// BL
+
+Partición 2-2: %_clas: 96.48%, T: 1.54793 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 2-2: %_clas: 95.42%, T: 0.00237 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 2-2: %_clas: 97.18%, T: 29.199 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 2-2: %_clas: 97.18%, T: 65.137 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 2-2: %_clas: 97.89%, T: 51.5102 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 2-2: %_clas: 97.18%, T: 62.1351 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 2-2: %_clas: 97.54%, T: 35.9156 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 2-2: %_clas: 96.48%, T: 20.505 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 2-2: %_clas: 91.58%, T: 19.6271 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 3-1: %_clas: 92.25%, T: 0.005824 segundos
+
+/////////////////////////////
+// BL
+
+Partición 3-1: %_clas: 92.61%, T: 1.47303 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 3-1: %_clas: 94.01%, T: 0.00235 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 3-1: %_clas: 95.77%, T: 27.3829 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 3-1: %_clas: 95.07%, T: 59.3892 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 3-1: %_clas: 95.77%, T: 50.8399 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 3-1: %_clas: 96.48%, T: 53.8517 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 3-1: %_clas: 94.37%, T: 32.9103 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 3-1: %_clas: 95.42%, T: 17.6593 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 3-1: %_clas: 94.72%, T: 17.6208 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 3-2: %_clas: 94.39%, T: 0.002351 segundos
+
+/////////////////////////////
+// BL
+
+Partición 3-2: %_clas: 94.74%, T: 1.4681 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 3-2: %_clas: 93.68%, T: 0.002467 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 3-2: %_clas: 98.95%, T: 27.5848 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 3-2: %_clas: 98.6%, T: 64.0408 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 3-2: %_clas: 98.25%, T: 51.2787 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 3-2: %_clas: 97.19%, T: 58.6372 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 3-2: %_clas: 96.49%, T: 35.9193 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 3-2: %_clas: 96.84%, T: 18.9295 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 3-2: %_clas: 95.42%, T: 19.3034 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 4-1: %_clas: 96.49%, T: 0.002261 segundos
+
+/////////////////////////////
+// BL
+
+Partición 4-1: %_clas: 97.54%, T: 1.48074 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 4-1: %_clas: 96.84%, T: 0.002417 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 4-1: %_clas: 98.6%, T: 27.458 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 4-1: %_clas: 97.89%, T: 71.7757 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 4-1: %_clas: 98.6%, T: 52.2291 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 4-1: %_clas: 98.25%, T: 59.5382 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 4-1: %_clas: 97.19%, T: 34.6662 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 4-1: %_clas: 97.54%, T: 17.9294 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 4-1: %_clas: 97.54%, T: 19.249 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 4-2: %_clas: 95.42%, T: 0.002285 segundos
+
+/////////////////////////////
+// BL
+
+Partición 4-2: %_clas: 96.48%, T: 1.70167 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 4-2: %_clas: 96.13%, T: 0.002345 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 4-2: %_clas: 97.54%, T: 28.5076 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 4-2: %_clas: 97.18%, T: 61.6269 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 4-2: %_clas: 97.89%, T: 51.1788 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 4-2: %_clas: 97.18%, T: 62.7008 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 4-2: %_clas: 95.42%, T: 35.4719 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 4-2: %_clas: 98.25%, T: 17.7145 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 4-2: %_clas: 96.84%, T: 17.7787 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 5-1: %_clas: 93.31%, T: 0.002401 segundos
+
+/////////////////////////////
+// BL
+
+Partición 5-1: %_clas: 93.66%, T: 2.04521 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 5-1: %_clas: 93.31%, T: 0.002316 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 5-1: %_clas: 96.48%, T: 27.3136 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 5-1: %_clas: 96.48%, T: 71.1271 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 5-1: %_clas: 97.18%, T: 51.0745 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 5-1: %_clas: 96.83%, T: 61.314 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 5-1: %_clas: 96.48%, T: 34.1738 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 5-1: %_clas: 95.42%, T: 17.2346 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 5-1: %_clas: 96.13%, T: 16.6925 segundos
+
+/////////////////////////////
+// Algoritmo 1-NN
+
+Partición 5-2: %_clas: 92.98%, T: 0.002359 segundos
+
+/////////////////////////////
+// BL
+
+Partición 5-2: %_clas: 95.09%, T: 2.86875 segundos
+
+/////////////////////////////
+// Algoritmo Relief
+
+Partición 5-2: %_clas: 92.98%, T: 0.00254 segundos
+
+/////////////////////////////
+// GG-BLX
+
+Partición 5-2: %_clas: 97.19%, T: 27.3665 segundos
+
+/////////////////////////////
+// GG-CA
+
+Partición 5-2: %_clas: 95.79%, T: 70.6412 segundos
+
+/////////////////////////////
+// GE-BLX
+
+Partición 5-2: %_clas: 97.89%, T: 51.7007 segundos
+
+/////////////////////////////
+// GE-CA
+
+Partición 5-2: %_clas: 96.49%, T: 62.7327 segundos
+
+/////////////////////////////
+// AM-(10,1.0)
+
+Partición 5-2: %_clas: 94.39%, T: 36.777 segundos
+
+/////////////////////////////
+// AM-(10,0.1)
+
+Partición 5-2: %_clas: 96.14%, T: 19.1585 segundos
+
+/////////////////////////////
+// AM-(10,0.1mej)
+
+Partición 5-2: %_clas: 92.96%, T: 20.0407 segundos
+
+//////////////////////////////////////////////////////////
+////////// Tiempos totales finales
+
+// 1-NN:
+Media del % de acierto: 93.85%
+Media del tiempo: 0.0040083 segundos
+
+// Relief:
+Media del % de acierto: 94.17%
+Media del tiempo: 0.0024117 segundos
+
+// BL:
+Media del % de acierto: 94.48%
+Media del tiempo: 1.69269 segundos
+
+// GG-BLX:
+Media del % de acierto: 97.22%
+Media del tiempo: 28.0459 segundos
+
+// GG-CA:
+Media del % de acierto: 96.66%
+Media del tiempo: 63.7433 segundos
+
+// GE-BLX:
+Media del % de acierto: 97.4%
+Media del tiempo: 51.0784 segundos
+
+// GE-CA:
+Media del % de acierto: 96.77%
+Media del tiempo: 60.311 segundos
+
+// AM-(10,1.0):
+Media del % de acierto: 95.71%
+Media del tiempo: 34.958 segundos
+
+// AM-(10,0.1):
+Media del % de acierto: 96.17%
+Media del tiempo: 18.828 segundos
+
+// AM-(10,0.1mej):
+Media del % de acierto: 94.83%
+Media del tiempo: 18.3969 segundos
+
+
+//////////////////////////////////////////////
+
+// Fin de wdbc.arff
+//////////////////////////////////////////////
+
+
+//////////////////////////////////////////////////////////
+// El tiempo que ha tardado en total es: 2778.1 segundos
+// El tiempo que ha tardado en total es: 46.3017 minutos
+//////////////////////////////////////////////////////////
+
